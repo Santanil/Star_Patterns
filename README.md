@@ -1,4 +1,4 @@
-# Star_Patter
+# Star_Patterns
 This is a repo consisting of codes of most commonly created star patterns.
 
 I will try to add some more very soon.
